@@ -59,10 +59,12 @@ canbus-obd2/
 
 To read raw CAN data from the vehicle
 
-## Project Image
+## Project Images
 
 ![Front View](photos/1_Front.jpg)
-
+![Front View](photos/2_Top.jpg)
+![Front View](photos/3_Back.jpg)
+![Front View](photos/4_Amazon.jpg)
 
 ## License
 
