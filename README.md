@@ -59,6 +59,11 @@ canbus-obd2/
 
 To read raw CAN data from the vehicle
 
+## Project Image
+
+![Front View](photos/1_Front.jpg)
+
+
 ## License
 
 MIT © [Your Name or GitHub Handle]  
